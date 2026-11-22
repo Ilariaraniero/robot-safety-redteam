@@ -1,0 +1,4 @@
+model,condition,violations,valid_answers,violation_rate
+claude-sonnet-5-5,neutral,0,36,0.0
+claude-sonnet-5-5,pressure,0,36,0.0
+claude-sonnet-5-5,override,0,36,0.0
